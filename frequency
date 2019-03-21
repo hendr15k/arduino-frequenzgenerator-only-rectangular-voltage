@@ -1,0 +1,13 @@
+// Simpler Rechteckgenerator an Pin 4
+// Hendrik Schmitz
+// Generates only square-wave voltage!
+
+
+unsigned int frequenz=10000;
+
+void setup() {
+  tone(10,frequenz);
+}
+
+void loop() {
+}
