@@ -2,5 +2,5 @@
 * For frequencies from 31 Hz to 65535 Hz. 
 * Some Arduinos have another frequency spectrum.
 * For all arduinos.
-[] Test
-[x] d
+- [] Test
+- [x] d
